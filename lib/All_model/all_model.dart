@@ -1,0 +1,165 @@
+import 'package:tamang_food_service/All_model/model.dart';
+
+class allmodeldata {
+  var Fururepatners = [
+    featured_partners_model(
+        image: "assets/KrispyCreme.png",
+        foodname: "Krispy Creme",
+        location: "St Georgece Terrace, Perth",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "1"),
+    featured_partners_model(
+        image: "assets/MaricoItaliano.png",
+        foodname: "Marico Italiano",
+        location: "St Georgece Terrace, Perth",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "2"),
+    featured_partners_model(
+        image: "assets/KrispyCreme.png",
+        foodname: "Krispy Creme",
+        location: "St Georgece Terrace, Perth",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "3"),
+    featured_partners_model(
+        image: "assets/KrispyCreme.png",
+        foodname: "Krispy Creme",
+        location: "St Georgece Terrace, Perth",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "4"),
+    featured_partners_model(
+        image: "assets/KrispyCreme.png",
+        foodname: "Krispy Creme",
+        location: "St Georgece Terrace, Perth",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "5"),
+  ];
+  var Fururepatnersbestpicks = [
+    featured_partners_model(
+        image: "assets/McDonald’s.png",
+        foodname: "McDonald’s",
+        location: "St Georgece Terrace, Perth",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "1"),
+    featured_partners_model(
+        image: "assets/Thehalal.png",
+        foodname: "The Halal Guys",
+        location: "St Georgece Terrace, Perth",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "2"),
+    featured_partners_model(
+        image: "assets/McDonald’s.png",
+        foodname: "McDonald’s",
+        location: "Hay street , Perth City",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "3"),
+    featured_partners_model(
+        image: "assets/McDonald’s.png",
+        foodname: "McDonald’s",
+        location: "Hay street , Perth City",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "4"),
+    featured_partners_model(
+        image: "assets/McDonald’s.png",
+        foodname: "McDonald’s",
+        location: "Hay street , Perth City",
+        rating: "4.5",
+        mints: "25min",
+        delivery: "Free delivery",
+        id: "5"),
+  ];
+
+  var Restaurants = [
+    Restaurants_model(
+        image: "assets/McDonald.png",
+        foodname: "McDonald's",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+    Restaurants_model(
+        image: "assets/CafeBrichor’s.png",
+        foodname: "Cafe Brichor’s",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+    Restaurants_model(
+        image: "assets/MayfieldBakery.png",
+        foodname: "Mayfield Bakery & Cafe",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+  ];
+  var AllFeaturedPartners = [
+    Restaurants_model(
+        image: "assets/allFeaturedimg1.png",
+        foodname: "Tacos Nanchas",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+    Restaurants_model(
+        image: "assets/allFeaturedimg2.png",
+        foodname: "McDonald's",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+    Restaurants_model(
+        image: "assets/allFeaturedimg3.png",
+        foodname: "KFC Foods",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+    Restaurants_model(
+        image: "assets/allFeaturedimg4.png",
+        foodname: "Cafe MayField’s",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+    Restaurants_model(
+        image: "assets/allFeaturedimg5.png",
+        foodname: "Cafe Brichor’s",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+    Restaurants_model(
+        image: "assets/allFeaturedimg6.png",
+        foodname: "Mayfield Bakery & Cafe",
+        foodtype: "Chinese • American",
+        rating: "4.3",
+        mints: "20 min",
+        deliverycost: "Free",
+        id: "1"),
+  ];
+}
